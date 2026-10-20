@@ -1,0 +1,6 @@
+streamlit>=1.40
+pandas
+matplotlib
+scikit-learn
+# 10장 ChatGPT 연결 시
+# openai
